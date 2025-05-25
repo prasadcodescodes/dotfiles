@@ -1,0 +1,9 @@
+- defaults:
+  link:
+    relink: true
+
+- link:
+    ~/.zshrc: .zshrc
+    ~/.tmux.conf: .tmux.conf
+    ~/.gitconfig: .gitconfig
+    ~/.config/nvim: .config/nvim

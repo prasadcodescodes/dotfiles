@@ -1,0 +1,9 @@
+[user]
+  name = Srinivasa Prasad
+  email = prasadcodescodes@gmail.com
+
+[alias]
+  st = status
+  co = checkout
+  ci = commit
+  br = branch

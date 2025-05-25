@@ -106,3 +106,4 @@ source $ZSH/oh-my-zsh.sh
 
 source ~/dotfiles/zsh/aliases.zsh
 source ~/dotfiles/zsh/functions.zsh
+source ~/dotfiles/zsh/exports.zsh

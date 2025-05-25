@@ -103,5 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias ytmusic='yt-dlp -x --audio-format flac --audio-quality 0 -o "~/Music/yt-downloads/%(title)s.%(ext)s" --progress --embed-thumbnail --add-metadata'
 
+source ~/dotfiles/zsh/aliases.zsh
+source ~/dotfiles/zsh/functions.zsh
